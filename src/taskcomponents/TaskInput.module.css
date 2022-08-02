@@ -1,0 +1,13 @@
+.formControl {
+  width: 50vw;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.input {
+  padding: 0.5rem;
+  margin: 1rem;
+  width: 90%;
+  border-radius: 5px;
+  border: 1px solid gray;
+}

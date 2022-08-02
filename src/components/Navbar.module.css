@@ -1,0 +1,29 @@
+.navbar {
+  position: relative;
+  top: 0;
+  left: 0;
+  margin-bottom: 0.5rem;
+  height: 4rem;
+  width: 100%;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+  opacity: 0.75;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar ul {
+  display: flex;
+  align-items: center;
+}
+
+.navbar ul li {
+  list-style: none;
+  padding: 1rem;
+}
+
+.navbutton:hover {
+  background: darkblue;
+}

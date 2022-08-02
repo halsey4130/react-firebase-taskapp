@@ -1,0 +1,79 @@
+.task-text {
+  font-weight: normal;
+  font-size: 1.2rem;
+}
+
+.input {
+  padding: 0.5rem;
+  margin: 1rem;
+  width: 90%;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+.taskItem {
+  width: 50vw;
+  text-align: center;
+  border-radius: 14px;
+  padding: 1rem;
+  background-color: white;
+  opacity: 0.9;
+  margin: 1rem;
+}
+
+.button {
+  margin: 0.5rem;
+  width: 8rem;
+  height: 2.5rem;
+  background-color: gray;
+  color: white;
+  border-style: none;
+  border-radius: 8px;
+}
+
+.buttonDisabled {
+  margin: 0.5rem;
+  width: 8rem;
+  height: 2.5rem;
+  background-color: lightgrey;
+  color: gray;
+  border-style: none;
+  border-radius: 8px;
+}
+
+.button:hover {
+  background-color: darkgray;
+  color: white;
+  transition: 0.25s all ease-in-out;
+}
+.button-yellow {
+  margin: 0.5rem;
+  width: 8rem;
+  height: 2.5rem;
+  background-color: yellow;
+  color: black;
+  border-style: none;
+  border-radius: 8px;
+}
+
+.button-yellow:hover {
+  background-color: darkgoldenrod;
+  color: black;
+  transition: 0.25s all ease-in-out;
+}
+
+.button-red {
+  margin: 0.5rem;
+  width: 8rem;
+  height: 2.5rem;
+  background-color: red;
+  color: black;
+  border-style: none;
+  border-radius: 8px;
+}
+
+.button-red:hover {
+  background-color: darkred;
+  color: black;
+  transition: 0.25s all ease-in-out;
+}
